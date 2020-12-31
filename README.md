@@ -14,7 +14,7 @@ Assumptions:
 Flight movement from one destination to another is unidirectional.
 More destination routes may be added in the future.
 The Ariplane can only move from from destination to another at a time.
-The Airplane starts from the first point of take off
+The Airplane takes off from the starting point
 
 
 
