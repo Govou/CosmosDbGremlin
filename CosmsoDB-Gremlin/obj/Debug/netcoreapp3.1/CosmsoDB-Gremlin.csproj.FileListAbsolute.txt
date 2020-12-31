@@ -1,0 +1,17 @@
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\bin\Debug\netcoreapp3.1\CosmsoDB-Gremlin.deps.json
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\bin\Debug\netcoreapp3.1\CosmsoDB-Gremlin.dll
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\obj\Debug\netcoreapp3.1\CosmsoDB-Gremlin.csprojAssemblyReference.cache
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\obj\Debug\netcoreapp3.1\CosmsoDB-Gremlin.AssemblyInfoInputs.cache
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\obj\Debug\netcoreapp3.1\CosmsoDB-Gremlin.AssemblyInfo.cs
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\bin\Debug\netcoreapp3.1\CosmsoDB-Gremlin.pdb
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\obj\Debug\netcoreapp3.1\CosmsoDB-Gremlin.csproj.CoreCompileInputs.cache
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\obj\Debug\netcoreapp3.1\CosmsoDB-Gremlin.dll
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\obj\Debug\netcoreapp3.1\CosmsoDB-Gremlin.pdb
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\bin\Debug\netcoreapp3.1\CosmsoDB-Gremlin.exe
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\bin\Debug\netcoreapp3.1\CosmsoDB-Gremlin.runtimeconfig.json
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\bin\Debug\netcoreapp3.1\CosmsoDB-Gremlin.runtimeconfig.dev.json
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\bin\Debug\netcoreapp3.1\Gremlin.Net.dll
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\obj\Debug\netcoreapp3.1\CosmsoDB-Gremlin.csproj.CopyComplete
+C:\Users\KENNYGEE\source\repos\CosmsoDB-Gremlin\CosmsoDB-Gremlin\obj\Debug\netcoreapp3.1\CosmsoDB-Gremlin.genruntimeconfig.cache
