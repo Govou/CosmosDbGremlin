@@ -25,9 +25,7 @@ namespace CosmsoDB_Gremlin
 
         private string GetLabelName { get { return labelName; } set { labelName = Vertex; } }
 
-     //   public static string GetLabelName =>  Vertex;
-
-        private static string GetVertexStatement(string name) => $"g.addV('{Vertex}').property('name', '{name}').";
+        private static string GetVertexStatement(string departure) => $"g.addV('{Vertex}').property('DepartureCity', '{departure}').";
 
         private static string GetEdgeStatement(string citySource, string cityTarget) => $"g.V('{citySource}').addE('knows').to(g.V('{cityTarget}'))";
 

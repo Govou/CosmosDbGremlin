@@ -1,6 +1,7 @@
 ﻿using Gremlin.Net.Driver;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace CosmsoDB_Gremlin
@@ -62,14 +63,11 @@ namespace CosmsoDB_Gremlin
             var constructqueries = GremlinQuery.ConstructTravelPath(cityTravels);
             await GremlinQuery.ExecuteGraphQueriesAsync(gremlinServer, constructqueries);
 
-            foreach (var query in constructqueries)
+            for (int i = 0; i < constructqueries.Count(); i++)
             {
-                var adjacentCount = GremlinQuery.CalculateCountOfAdjacentCities(query);
-                Console.WriteLine();
+                var adjacentCount = GremlinQuery.CalculateCountOfAdjacentCities(constructqueries.ToList()[i]);
+                Console.WriteLine($"{cityTravels[i]} the count is {adjacentCount}");
             }
-
-            Console.WriteLine("Graph constructed. B-)");
-            Console.ReadLine();
         }
     }
 }
